@@ -1,0 +1,9 @@
+i:\users\captain\documents\visual studio 2015\Projects\PickUpExtraFile\PickUpExtraFile\bin\Debug\PickUpExtraFile.exe.config
+i:\users\captain\documents\visual studio 2015\Projects\PickUpExtraFile\PickUpExtraFile\bin\Debug\PickUpExtraFile.exe
+i:\users\captain\documents\visual studio 2015\Projects\PickUpExtraFile\PickUpExtraFile\bin\Debug\PickUpExtraFile.pdb
+i:\users\captain\documents\visual studio 2015\Projects\PickUpExtraFile\PickUpExtraFile\obj\Debug\PickUpExtraFile.csprojResolveAssemblyReference.cache
+i:\users\captain\documents\visual studio 2015\Projects\PickUpExtraFile\PickUpExtraFile\obj\Debug\PickUpExtraFile.Form1.resources
+i:\users\captain\documents\visual studio 2015\Projects\PickUpExtraFile\PickUpExtraFile\obj\Debug\PickUpExtraFile.Properties.Resources.resources
+i:\users\captain\documents\visual studio 2015\Projects\PickUpExtraFile\PickUpExtraFile\obj\Debug\PickUpExtraFile.csproj.GenerateResource.Cache
+i:\users\captain\documents\visual studio 2015\Projects\PickUpExtraFile\PickUpExtraFile\obj\Debug\PickUpExtraFile.exe
+i:\users\captain\documents\visual studio 2015\Projects\PickUpExtraFile\PickUpExtraFile\obj\Debug\PickUpExtraFile.pdb
